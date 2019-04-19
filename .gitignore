@@ -1,3 +1,6 @@
+# report too big
+mueller-report-searchable.pdf
+
 # Private data/keys
 /data_keys/*
 !data_keys/readme.txt 
