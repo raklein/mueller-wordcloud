@@ -8,8 +8,7 @@ library("wordcloud") # generate the wordcloud
 library("RColorBrewer") # color palette 
 library("Cairo") # antialiasing for better graphics
 
-# downloaded the report (or manually place in the working directory)
-download.file("https://cdn.cnn.com/cnn/2019/images/04/18/mueller-report-searchable.pdf", "mueller-report-searchable.pdf")
+# Download report and place it in your directory. I sourced the report from https://cdn.cnn.com/cnn/2019/images/04/18/mueller-report-searchable.pdf.
 
 # convert pdf to text
 tex <- pdf_text("mueller-report-searchable.pdf")
