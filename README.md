@@ -1,6 +1,6 @@
 # mueller-wordcloud
 
-Makes a simple word cloud from the Mueller report. Credit to Alboukadel Kassambara, I'm implementing a simplified version of his tutorial: http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
+Makes a simple word cloud from the Mueller report. Credit to [Alboukadel Kassambara](https://github.com/kassambara), I'm implementing a simplified version of his tutorial: http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
 
 ![Word cloud](wordcloud.png?raw=true "Title")
 
