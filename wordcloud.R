@@ -9,6 +9,7 @@ library("RColorBrewer") # color palette
 library("Cairo") # antialiasing for better graphics
 
 # Download report and place it in your directory. I sourced the report from https://cdn.cnn.com/cnn/2019/images/04/18/mueller-report-searchable.pdf.
+# Backup if that link is dead: https://web.archive.org/web/20190418170721/https://cdn.cnn.com/cnn/2019/images/04/18/mueller-report-searchable.pdf
 
 # convert pdf to text
 tex <- pdf_text("mueller-report-searchable.pdf")
